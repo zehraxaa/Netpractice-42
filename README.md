@@ -2,7 +2,7 @@ _This project has been created as part of the 42 curriculum by aaydogdu_
 
 ## Description: What is NetPractice?
 
-NetPractice is a project to understand the fundamentals of computer networking by training over 10 levels of exercises. These levels are designed in aim to solve different levels of small scale network architectures. This project involves understanding TCP/IP addressing, subnet masks, managing routing tables, and ensuring proper communication between various network devices such as hosts, routers, and switches.
+NetPractice is a project to understand the fundamentals of computer networking by training over 10 level exercises. These levels are designed in aim to solve different levels of small scale network architectures. This project involves understanding TCP/IP addressing, subnet masks, managing routing tables, and ensuring proper communication between various network devices such as hosts, routers, and switches.
 
 ## Instructions: How to download and run the NetPractice project?
 
