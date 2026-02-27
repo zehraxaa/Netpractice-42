@@ -51,6 +51,7 @@ I find useful these articles and playlists to understand networking and NetPract
     https://www.kaspersky.com.tr/resource-center/definitions/what-is-an-ip-address
     https://berqnet.com/blog/tcp-ipv
     https://youtube.com/playlist?list=PLCXqoZAc8-tzD5N5oCyIyEcMg_NDs6o7C&si=qgR-DwN1axwKokSU
+    https://bidb.itu.edu.tr/seyir-defteri/blog/2013/09/07/tcp-ip-protokolu
 
 ## AI Usage Description:
   In compliance with the project guidelines, AI was utilized as follows:
